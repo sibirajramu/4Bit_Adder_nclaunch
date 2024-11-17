@@ -128,9 +128,7 @@ Developed by: Register Number*/
 
 	To Launch Simulation tool 
 
-•	linux:/> nclaunch -new& // “-new” option is used for invoking NCVERILOG for the first time for any design 
-
-or
+•	linux:/> nclaunch -new& // “-new” option is used for invoking NCVERILOG for the first time for any design (or)
 
 •	linux:/> nclaunch& // On subsequent calls to NCVERILOG 
 
