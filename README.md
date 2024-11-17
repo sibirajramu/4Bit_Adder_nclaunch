@@ -76,8 +76,7 @@ Note : File name should be with HDL Extension
       full_adder fa2 (A[2],B[2],C2,S[2],C3);
       full_adder fa3 (A[3],B[3],C3,S[3],C4); 
       endmodule 
-
-
+      
 ### a) Verify the Functionality 
 
 	Three Codes shall be written for implementation of 4-bit Adder as follows, 
@@ -88,7 +87,7 @@ Note : File name should be with HDL Extension
 
 •	fa_4bit_test.v → Test bench 
 
-## Testbench  
+### Testbench  
 
       module test_4bit; 
       reg [3:0] A;
@@ -109,7 +108,7 @@ Note : File name should be with HDL Extension
       #50 $finish;
       Endmodule
 
-## Functional Simulation: 
+### Functional Simulation: 
 
 	Invoke the cadence environment by type the below commands 
 
