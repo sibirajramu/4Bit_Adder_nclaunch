@@ -18,9 +18,10 @@ To design a 1-bit full adder, the first step is to create a truth table that rep
 ![image](https://github.com/user-attachments/assets/716a26b6-a449-42e0-9e2d-cdbaa4b291b9)
 
 <br>
-   <br>
-   <br>
-   <br>
+<br>
+<br>
+<br>
+<br>
    
 Here’s the truth table for a 1-bit full adder:
 
@@ -120,6 +121,10 @@ Developed by: Register Number*/
 ![image](https://github.com/user-attachments/assets/64ff74bb-d8af-4972-b39c-55d3b5542eda)
 
 ### Fig 3:Invoke the Cadence Environment
+
+<br>
+<br>
+<br>
 
 	To Launch Simulation tool 
 
