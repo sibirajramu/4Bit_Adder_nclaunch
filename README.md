@@ -87,6 +87,8 @@ Note : File name should be with HDL Extension
 
 •	fa_4bit_test.v → Test bench 
 
+<br>
+
 ### Testbench  
 
       module test_4bit; 
